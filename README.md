@@ -1,4 +1,7 @@
 # Zork.py
+# Liam Wedell
+# CSCI 101 - Section F
+# Python Lab EC Code Enhancements
 
 Thank you for downloading a copy of Zork, The PY Edition!
 This Python Program is based loosely on the Storyline of Zork I, and is intended to run and function exactly like the original -
